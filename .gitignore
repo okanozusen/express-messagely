@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jest cache and coverage
+coverage/
+jest-cache/
+jest-config/
